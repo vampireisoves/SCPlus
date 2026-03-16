@@ -6,23 +6,23 @@
 
 all.yaml
 
-https://raw.githubusercontent.com/vampireisoves/SCPlus/refs/heads/main/output/sub/all.yaml?token=GHSAT0AAAAAADXMPIPQRHARXVWXVIWTCNJW2NXO67A
+https://github.com/vampireisoves/SCPlus/blob/main/output/sub/all.yaml
 
 
 
 base64.txt
 
-https://raw.githubusercontent.com/vampireisoves/SCPlus/refs/heads/main/output/sub/base64.txt?token=GHSAT0AAAAAADXMPIPQDNZW2R6DOE3PPXSS2NXO7FA
+https://github.com/vampireisoves/SCPlus/blob/main/output/sub/base64.txt
 
 
 
 history.yaml
 
-https://raw.githubusercontent.com/vampireisoves/SCPlus/refs/heads/main/output/sub/history.yaml?token=GHSAT0AAAAAADXMPIPQF5INCRBVJUWPPNEK2NXO7HA
+https://github.com/vampireisoves/SCPlus/blob/main/output/sub/history.yaml
 
 
 
 mihomo.yaml
 
-https://raw.githubusercontent.com/vampireisoves/SCPlus/refs/heads/main/output/sub/mihomo.yaml?token=GHSAT0AAAAAADXMPIPQVMPWF4MLXNYQ2LXG2NXO7MA
+https://github.com/vampireisoves/SCPlus/blob/main/output/sub/mihomo.yaml
 
