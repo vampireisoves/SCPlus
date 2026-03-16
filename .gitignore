@@ -1,3 +1,4 @@
+.gitignore
 appsettings.json
 appsettings/appsettings.amazonaws.json
 appsettings/appsettings.ao3.json
