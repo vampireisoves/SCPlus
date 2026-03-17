@@ -10918,3 +10918,1643 @@ proxies:
       User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
     path: /@Marisa_kristi
   xudp: true
+- flow: null
+  name: SCPlus-🇸🇬SG¹⁺_1|0.8MB/s|100%|GPT⁺|NF|D+|X|Beacon灯塔-SingBox订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.2.161
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /project/groups/code/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_2|0.7MB/s|7%|GPT|GM|YT|NF|X|Beacon灯塔-Base64通用订阅
+  network: ws
+  port: 443
+  server: 108.162.198.0
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    path: /temp/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- name: SCPlus-🇸🇬SG⁻¹_1|0.8MB/s|GM|D+|sinspired/subs-check|[广播|机房]
+  network: ws
+  port: 443
+  server: 34.143.159.175
+  servername: ylnhh.cc.cd
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+  ws-opts:
+    headers:
+      Host: ylnhh.cc.cd
+    path: /Telegram🇨🇳 @WangCai2
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹⁺_3|1.7MB/s|7%|GPT⁺|X|Beacon灯塔-Base64通用订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: www.adbcardpay.xyz
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    path: /p/photo/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇭🇰HK¹-TW⁰_1|1.8MB/s|GPT|YT|NF|D+|X|X-阿牛订阅链接-台湾IP解锁全部流媒体|[广播|机房]
+  network: ws
+  port: 443
+  server: 8.218.189.27
+  servername: aniuff5874c4.niugetw.de5.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniuff5874c4.niugetw.de5.net
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_3|0.8MB/s|7%|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-自适应订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: blog.646474.xyz
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.3 Safari/534.24
+    path: /type/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- name: SCPlus-🇯🇵JP²_1|1.0MB/s|X|[广播|机房]
+  password: fe0fda62-79ff-467e-bef4-983322c1d21b
+  port: 60004
+  server: hkaws.ccwink.photos
+  skip-cert-verify: true
+  type: anytls
+  udp: true
+- alpn:
+  - h3
+  client-fingerprint: random
+  name: SCPlus-🇸🇬SG¹-US⁰_1|2.3MB/s|7%|GPT|GM|YT|X|[广播|机房]
+  network: ws
+  port: 2087
+  server: 172.64.144.190
+  servername: dd4973b2.lfree.cn.mt
+  tls: true
+  type: vless
+  udp: true
+  uuid: 69b73277-99ed-6b7f-f52b-79b98093e7ae
+  ws-opts:
+    headers:
+      Host: dd4973b2.lfree.cn.mt
+    path: /socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433
+- flow: null
+  name: SCPlus-🇯🇵JP¹-SG⁰_4|2.6MB/s|7%|GPT|GM|YT|NF|D+|X|Beacon灯塔-SingBox订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: g.lma.de5.net
+  servername: wt.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+    path: /lesson/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- flow: null
+  name: SCPlus-🇦🇸Local ISP_1|2.4MB/s|GPT|GM|NF|D+|X|Beacon灯塔-SingBox订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: cf.130519.xyz
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /account/image/channels/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- name: SCPlus-🇸🇬SG¹⁺_4|0.5MB/s|7%|GPT|NF|D+|X|免费节点订阅中心-节点06|[广播|机房]
+  network: ws
+  port: 443
+  server: 172.64.152.43
+  servername: snippet.danfeng.gv.uy
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.gv.uy
+    path: /danfeng
+- name: SCPlus-🇯🇵JP¹-SG⁰_5|1.3MB/s|0%|GPT|GM|D+|X|免费节点订阅中心-节点06|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.44.105
+  servername: snippet.danfeng.gv.uy
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.gv.uy
+    path: /danfeng
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_6|0.8MB/s|7%|GPT|GM|NF|D+|X|Beacon灯塔-Base64通用订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.44.99
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+    path: /account/torrent/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇯🇵JP²_2|2.5MB/s|0%|GPT⁺|YT-CN|NF|X|[广播|机房]
+  network: ws
+  port: 16617
+  server: planb.mojcn.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹⁺_5|1.4MB/s|GPT⁺|GM|NF|D+|X|Beacon灯塔-Base64通用订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.1.124
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /knowledge/discount/tv/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP²_3|4.9MB/s|GPT⁺|YT|NF|X|[广播|机房]
+  network: tcp
+  password: IL37892054
+  port: 443
+  server: on-airedale.rooster465.autos
+  skip-cert-verify: true
+  sni: on-airedale.rooster465.autos
+  tls: true
+  type: trojan
+  udp: true
+- name: SCPlus-🇺🇸US¹-SG⁰_3|1.6MB/s|7%|GPT⁺|GM|YT|TK|X|免费节点订阅中心-节点06
+  network: ws
+  port: 2053
+  server: convera.com
+  servername: pnat6unnnp.gfw.hidns.co
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 26524cce-d514-4014-a426-365fb266a14d
+  ws-opts:
+    headers:
+      Host: pnat6unnnp.gfw.hidns.co
+    path: /danfeng?ed=2560
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-JP⁰_1|0.9MB/s|7%|GPT|YT|TK|NF|X|X-阿牛订阅链接-香港IP电脑V2开启ECH可用
+  network: ws
+  port: 443
+  server: 103.160.204.170
+  servername: snippets-jp.aniuge.qzz.io
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: snippets-jp.aniuge.qzz.io
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+    path: "%2F%3Fed%3D2095"
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹-JP⁰_2|1.0MB/s|7%|GPT⁺|GM|YT|NF|X|X-阿牛订阅链接-日本IP解锁全部流媒体|[广播|机房]
+  network: ws
+  port: 443
+  server: www.wto.org
+  servername: aniu1fc40835.x-a-niu.ccwu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu1fc40835.x-a-niu.ccwu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- flow: null
+  name: SCPlus-🇯🇵JP¹-SG⁰_8|0.7MB/s|YT|NF|Beacon灯塔-SingBox订阅
+  network: ws
+  port: 443
+  server: 162.159.44.99
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /jp/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_9|2.6MB/s|GPT⁺|X|Beacon灯塔-Base64通用订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.44.103
+  servername: wy.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+    path: /novel/info/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  delay: 1755
+  name: SCPlus-🇩🇪DE⁻¹_1|1.8MB/s|YT|NF|D+|[广播|机房]
+  network: ws
+  password: trojan
+  port: 2525
+  server: 46.62.132.84
+  skip-cert-verify: true
+  sni: jflsjlaf.pages.dev
+  tls: true
+  type: trojan
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: jflsjlaf.pages.dev
+    max-early-data: 2560
+    path: /
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: SCPlus-🇺🇸US¹-SG⁰_4|0.8MB/s|7%|GPT⁺|GM|YT|TK|NF|D+|X|[原生|机房]
+  network: ws
+  port: 443
+  server: 192.0.54.168
+  servername: snippet.danfeng.ee.cd
+  tls: true
+  type: vless
+  udp: true
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.ee.cd
+    path: /danfeng
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹-JP⁰_3|2.2MB/s|0%|GPT⁺|GM|YT|NF|D+|X|X-阿牛订阅链接-新加坡IP 解锁全部流媒体|[广播|机房]
+  network: ws
+  port: 443
+  server: www.udacity.com
+  servername: aniuca34b3c1.x-aniusg.de5.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniuca34b3c1.x-aniusg.de5.net
+      User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP²_4|2.8MB/s|0%|GPT|NF|X|[广播|机房]
+  network: tcp
+  password: IL37892054
+  port: 443
+  server: close-wasp.rooster465.autos
+  skip-cert-verify: true
+  sni: close-wasp.rooster465.autos
+  tls: true
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇺🇸US²_1|0.8MB/s|GPT|GM|TK|NF|D+|X
+  network: ws
+  port: 16648
+  server: planb.mojcn.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇮🇳IN²_1|2.2MB/s|GPT⁺|GM|YT|NF|X|[广播|机房]
+  network: ws
+  port: 16626
+  server: planb.mojcn.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇯🇵JP²_5|1.2MB/s|0%|GPT⁺|YT-CN|NF|X
+  network: ws
+  port: 16617
+  server: m.cnmjin.net
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇭🇰HK²_1|3.1MB/s|0%|GPT⁺|GM|YT-CN|NF|D+|X|[广播|商宽]
+  network: ws
+  port: 16622
+  server: m.cnmjin.net
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  name: SCPlus-🇺🇸US¹-SG⁰_6|1.6MB/s|7%|GPT⁺|GM|YT|TK|NF|D+|X|Beacon灯塔-Clash订阅|[原生|机房]
+  network: ws
+  port: 443
+  server: 104.19.52.13
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /class/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_15|0.8MB/s|7%|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-Base64通用订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: cf.130519.xyz
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+    path: /pdf/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇸🇬SG²_1|2.2MB/s|12%|GPT⁺|YT-CN|NF|D+|X|[广播|机房]
+  network: ws
+  port: 16618
+  server: t.cnmjcn.cyou
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- name: SCPlus-🇺🇸US¹-SG⁰_9|0.9MB/s|7%|GPT⁺|GM|YT|TK|NF|D+|X|[原生|机房]
+  network: ws
+  port: 443
+  server: 192.0.54.188
+  servername: snippet.danfeng.kozow.com
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.kozow.com
+    path: /danfeng?ed=2560
+- name: SCPlus-🇺🇸US²_2|0.7MB/s|0%|GPT⁺|NF|D+|X|sinspired/subs-check|[原生|住宅]
+  password: ""
+  port: 443
+  server: 74.103.66.15
+  skip-cert-verify: true
+  tls: true
+  type: http
+  username: ""
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_18|1.8MB/s|GPT⁺|GM|YT|NF|X|Beacon灯塔-自适应订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.44.103
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+    path: /courses/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- name: SCPlus-🇺🇸US¹-SG⁰_10|1.7MB/s|7%|GPT|GM|NF|D+|X|免费节点订阅中心-节点06
+  network: ws
+  port: 2053
+  server: 104.16.90.31
+  servername: snippet.danfeng.gv.uy
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.gv.uy
+    path: /danfeng
+- client-fingerprint: chrome
+  name: SCPlus-🇹🇼TW¹-SG⁰_2|2.6MB/s|0%|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-Clash订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 103.118.42.127
+  servername: wy.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+    path: /groups/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  name: SCPlus-🇺🇸US¹-JP⁰_3|1.4MB/s|7%|GPT⁺|GM|YT|NF|D+|X|免费节点订阅中心-节点04
+  network: ws
+  port: 20000
+  server: 69.63.212.105
+  servername: 6jo3979-1m6dxw0bw0xs4287w.mikuru.ip-ddns.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00000000-0000-4000-8000-000000000000
+  ws-opts:
+    headers:
+      Host: 6jo3979-1m6dxw0bw0xs4287w.mikuru.ip-ddns.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-JP⁰_4|1.2MB/s|7%|GPT|YT|NF|D+|X|X-阿牛订阅链接-日本IP解锁全部流媒体|[原生|机房]
+  network: ws
+  port: 443
+  server: 154.194.0.109
+  servername: aniu1fc40835.x-a-niu.ccwu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu1fc40835.x-a-niu.ccwu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇭🇰HK¹-JP⁰_1|0.9MB/s|7%|GPT⁺|YT|X|X-阿牛订阅链接-香港IP电脑V2开启ECH可用
+  network: ws
+  port: 443
+  server: 8.210.29.68
+  servername: snippets-jp.aniuge.qzz.io
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: snippets-jp.aniuge.qzz.io
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+    path: "%2F%3Fed%3D2095"
+  xudp: true
+- name: SCPlus-🇯🇵JP¹-SG⁰_19|0.7MB/s|7%|GPT⁺|GM|YT|NF|D+|X|免费节点订阅中心-节点06
+  network: ws
+  port: 443
+  server: 108.162.198.243
+  servername: snippet.danfeng.gv.uy
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.gv.uy
+    path: /danfeng
+- client-fingerprint: chrome
+  name: SCPlus-🇸🇬SG¹⁺_9|1.8MB/s|GPT⁺|GM|YT|NF|X|Beacon灯塔-Clash订阅
+  network: ws
+  port: 443
+  server: cloudflare.182682.xyz
+  servername: wt.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+    path: /urls/movies/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇭🇰HK¹-JP⁰_2|2.3MB/s|7%|GPT⁺|YT|NF|D+|X|X-阿牛订阅链接-全球反代节点|[广播|机房]
+  network: ws
+  port: 443
+  server: 8.218.189.27
+  servername: aniu7f78fa02.aniua-all.us.ci
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu7f78fa02.aniua-all.us.ci
+      User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: SCPlus-🇹🇼TW²_1|0.7MB/s|GM|YT|NF|D+|sinspired/subs-check
+  port: 43623
+  reality-opts:
+    public-key: DXQDAGxccP5NiuFoqBVTZwd-IJ1bspO---aSVBiujRo
+    short-id: 3a0d5d97
+  server: bgp.mfxy.shop
+  servername: www.yahoo.com
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e3444624-2b1e-4567-b9b0-782a1ea59e5f
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹-JP⁰_4|2.4MB/s|100%|GPT|D+|X|X-阿牛订阅链接-日本IP解锁全部流媒体|[广播|机房]
+  network: ws
+  port: 443
+  server: x.cf.090227.xyz
+  servername: aniu1fc40835.x-a-niu.ccwu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu1fc40835.x-a-niu.ccwu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: randomized
+  name: SCPlus-🇺🇸US¹-🏴‍☠️⁰_1|2.2MB/s|GM|YT|TK|D+
+  network: ws
+  password: d0298536-d670-4045-bbb1-ddd5ea68683e
+  port: 443
+  server: www.digitalocean.com
+  skip-cert-verify: false
+  sni: azadnet-5vk.pages.dev
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+    path: /azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹⁺_10|1.1MB/s|GPT|YT|D+|X|Beacon灯塔-自适应订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.1.124
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+    path: /comics/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  flow: xtls-rprx-vision
+  http-opts:
+    headers: {}
+    path:
+    - /
+  name: SCPlus-🇺🇸US²_3|0.5MB/s|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw
+    short-id: 513b0a
+  server: 37.139.35.141
+  servername: yandex.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: fd37be2f-f8d1-47de-97e8-13c28107d31e
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹-JP⁰_5|1.6MB/s|7%|GPT⁺|GM|YT|NF|D+|X|X-阿牛订阅链接-全球反代节点|[广播|机房]
+  network: ws
+  port: 443
+  server: www.wto.org
+  servername: aniu7f78fa02.aniua-all.us.ci
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu7f78fa02.aniua-all.us.ci
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_11|1.2MB/s|7%|GPT⁺|GM|YT|TK|NF|X|Beacon灯塔-Base64通用订阅
+  network: ws
+  port: 443
+  server: 104.17.151.172
+  servername: wy.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
+    path: /trade/blogs/news/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_12|0.9MB/s|7%|GPT⁺|GM|D+|X|Beacon灯塔-Base64通用订阅|[原生|机房]
+  network: ws
+  port: 443
+  server: 104.17.151.174
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+    path: /jump/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- alpn:
+  - h3
+  client-fingerprint: random
+  name: SCPlus-🇹🇼TW¹-US⁰_1|1.6MB/s|7%|GPT⁺|YT|NF|D+|X|sinspired/subs-check|[广播|机房]
+  network: ws
+  port: 16000
+  server: 203.69.248.40
+  servername: dd4973b2.lfree.cn.mt
+  tls: true
+  type: vless
+  udp: true
+  uuid: 69b73277-99ed-6b7f-f52b-79b98093e7ae
+  ws-opts:
+    headers:
+      Host: dd4973b2.lfree.cn.mt
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+    path: /socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_13|0.5MB/s|7%|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-自适应订阅|[原生|机房]
+  network: ws
+  port: 443
+  server: 104.17.151.172
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    path: /topics/list/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-KR⁰_1|1.1MB/s|7%|GPT|GM|YT-SG|NF|D+|X|X-阿牛订阅链接-全球反代节点|[广播|机房]
+  network: ws
+  port: 443
+  server: x.cf.090227.xyz
+  servername: aniu7f78fa02.aniua-all.us.ci
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu7f78fa02.aniua-all.us.ci
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_14|0.7MB/s|GPT|GM|YT|X|[原生|机房]
+  network: ws
+  port: 80
+  server: 104.16.9.24
+  type: vless
+  udp: true
+  uuid: 2ac6e527-6410-48ce-b9ba-cc8135ee2a3b
+  ws-opts:
+    headers:
+      Host: fragrant-recipe-09f4.wopecuyubak61.workers.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+    path: /?ed=2048
+  xudp: true
+- name: SCPlus-🇨🇦CA²_1|0.7MB/s|14%|X|sinspired/subs-check
+  password: ""
+  port: 6109
+  server: 206.123.156.184
+  skip-cert-verify: true
+  type: socks5
+  username: ""
+- alpn:
+  - h3
+  client-fingerprint: random
+  name: SCPlus-🇸🇬SG¹-US⁰_3|1.4MB/s|7%|GPT|GM|YT|NF|D+|X|[广播|机房]
+  network: ws
+  port: 443
+  server: cdns.doon.eu.org
+  servername: dd4973b2.lfree.cn.mt
+  tls: true
+  type: vless
+  udp: true
+  uuid: 69b73277-99ed-6b7f-f52b-79b98093e7ae
+  ws-opts:
+    headers:
+      Host: dd4973b2.lfree.cn.mt
+    path: /socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433
+- client-fingerprint: chrome
+  name: SCPlus-🇺🇸US¹-SG⁰_16|0.8MB/s|GPT|NF|D+|X|Beacon灯塔-Clash订阅|[原生|机房]
+  network: ws
+  port: 443
+  server: 104.19.32.186
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /download/map/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- flow: null
+  name: SCPlus-🇯🇵JP¹-SG⁰_21|1.8MB/s|GPT|D+|X|Beacon灯塔-SingBox订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.44.46
+  servername: wt.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+    path: /users/pictures/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- name: SCPlus-🇸🇬SG²_2|0.9MB/s|0%
+  network: ws
+  port: 443
+  server: 64.186.239.78
+  servername: snippet.danfeng.ee.cd
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.ee.cd
+    path: /danfeng
+- name: SCPlus-🇸🇬SG¹-US⁰_4|1.9MB/s|7%|GPT⁺|GM|YT|NF|D+|X|[广播|机房]
+  network: ws
+  port: 443
+  server: 172.64.156.0
+  servername: r.icy.de5.net
+  tls: true
+  type: vless
+  uuid: 9e4f36da-8f61-44f8-a9a7-0fd3a8d81234
+  ws-opts:
+    headers:
+      Host: r.icy.de5.net
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: SCPlus-🇸🇬SG²_3|1.1MB/s|2%|GPT⁺|YT|X|[广播|机房]
+  network: tcp
+  password: IL37892054
+  port: 443
+  server: diverse-hawk.rooster465.autos
+  skip-cert-verify: true
+  sni: diverse-hawk.rooster465.autos
+  tls: true
+  type: trojan
+  udp: true
+- name: SCPlus-🇯🇵JP¹-US⁰_1|1.7MB/s|7%|GPT|GM|D+|X|[广播|机房]
+  network: ws
+  port: 443
+  server: 162.159.44.142
+  servername: r.icy.de5.net
+  tls: true
+  type: vless
+  uuid: 9e4f36da-8f61-44f8-a9a7-0fd3a8d81234
+  ws-opts:
+    headers:
+      Host: r.icy.de5.net
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇺🇸US²_5|0.7MB/s|GPT⁺|NF|D+|X|[原生|机房]
+  network: ws
+  port: 16648
+  server: t.cnmjcn.cyou
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  name: SCPlus-🇸🇬SG¹⁺_17|2.5MB/s|7%|GPT⁺|GM|YT|X|Beacon灯塔-Clash订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 104.18.40.112
+  servername: wt.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+    path: /channel/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- alterId: 0
+  cipher: auto
+  name: SCPlus-🇸🇬SG²_4|3.1MB/s|12%|GPT⁺|NF|D+|X
+  network: ws
+  port: 16618
+  server: m.cnmjin.net
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9
+  ws-opts:
+    headers:
+      Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹⁺_18|3.5MB/s|7%|GPT⁺|GM|X|Beacon灯塔-自适应订阅
+  network: ws
+  port: 443
+  server: nas.chinwa.eu.cc
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+    path: /info/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- name: SCPlus-🇯🇵JP²_6|2.6MB/s|26%|GPT⁺|GM|YT|NF|X|[广播|机房]
+  password: 2ec58858-976b-11ea-82ef-f23c9164ca5d
+  port: 27233
+  server: 28017045-t9zts0-tahh2s-tng5.cm4.oshuawei.com
+  sni: 28017045-t9zts0-tahh2s-tng5.cm4.oshuawei.com
+  tls: true
+  type: http
+  username: 2ec58858-976b-11ea-82ef-f23c9164ca5d
+- name: SCPlus-🇸🇬SG²_5|2.3MB/s|2%|GPT⁺|X|[广播|机房]
+  password: IL37892054
+  port: 443
+  server: diverse-hawk.rooster465.autos
+  skip-cert-verify: true
+  sni: diverse-hawk.rooster465.autos
+  tls: true
+  type: trojan
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP¹-SG⁰_27|3.7MB/s|7%|GPT⁺|YT|D+|X|Beacon灯塔-Clash订阅
+  network: ws
+  port: 443
+  server: 1757760858.tencentapp.cn
+  servername: wy.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+    path: /member/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_28|2.6MB/s|GPT|GM|NF|D+|X|Beacon灯塔-Base64通用订阅
+  network: ws
+  port: 443
+  server: cf.tencentapp.cn
+  servername: wy.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+    path: /share/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_19|0.6MB/s|7%|TK|D+|X|Beacon灯塔-自适应订阅
+  network: ws
+  port: 443
+  server: 104.19.53.216
+  servername: wy.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+    path: /library/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_20|0.6MB/s|7%|GPT⁺|GM|YT|TK|NF|D+|X|Beacon灯塔-Base64通用订阅
+  network: ws
+  port: 443
+  server: 104.17.216.239
+  servername: wy.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+    path: /users/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: safari
+  encryption: none
+  flow: xtls-rprx-vision
+  name: SCPlus-🇯🇵JP²_7|1.2MB/s|7%|GPT⁺|YT|NF|X
+  network: tcp
+  port: 20238
+  reality-opts:
+    public-key: DXQDAGxccP5NiuFoqBVTZwd-IJ1bspO---aSVBiujRo
+    short-id: 3a0d5d97
+  server: bgp.mfxy.shop
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: e3444624-2b1e-4567-b9b0-782a1ea59e5f
+  xudp: true
+- alpn:
+  - h3
+  name: SCPlus-🇰🇷KR¹-US⁰_1|0.9MB/s|GPT|NF|D+|X|免费节点订阅中心-节点06
+  network: ws
+  port: 10031
+  server: 210.91.77.254
+  servername: dd4973b2.lfree.cn.mt
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 69b73277-99ed-6b7f-f52b-79b98093e7ae
+  ws-opts:
+    headers:
+      Host: dd4973b2.lfree.cn.mt
+    path: /socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-JP⁰_6|1.5MB/s|GPT|GM|YT|D+|X|X-阿牛订阅链接-香港IP电脑V2开启ECH可用
+  network: ws
+  port: 443
+  server: 154.194.0.228
+  servername: snippets-jp.aniuge.qzz.io
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: snippets-jp.aniuge.qzz.io
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+    path: "%2F%3Fed%3D2095"
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: SCPlus-🇩🇪DE¹-SG⁰_1|0.8MB/s|GPT⁺|NF|D+|X
+  network: ws
+  port: 2087
+  server: 161.35.18.70
+  servername: snippet.danfeng.casacam.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.casacam.net
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+    path: /danfeng
+  xudp: true
+- name: SCPlus-🇰🇷KR²_1|3.7MB/s|2%|GPT⁺|GM|YT|D+|X|免费节点订阅中心-节点06|[广播|机房]
+  password: IL37892054
+  port: 443
+  server: positive-bear.rooster465.autos
+  skip-cert-verify: true
+  sni: positive-bear.rooster465.autos
+  tfo: false
+  tls: true
+  type: trojan
+- name: SCPlus-🇹🇼TW²_2|0.5MB/s|GPT⁺|YT|NF|D+|X|[原生|住宅]
+  password: mrwdfNTD8M79LCukCieldrqZWqs=
+  port: 1443
+  server: twmoon1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: true
+  sni: twmoon1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- flow: null
+  name: SCPlus-🇯🇵JP¹-SG⁰_29|2.0MB/s|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-SingBox订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: 108.162.198.0
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /document/res/work/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_21|1.4MB/s|GPT|GM|YT|TK|D+|X|Beacon灯塔-自适应订阅|[原生|机房]
+  network: ws
+  port: 443
+  server: 104.17.157.122
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+    path: /user/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  delay: 2362
+  name: SCPlus-🇺🇸US⁻¹_1|0.5MB/s|GM|YT|TK|NF|D+|[原生|机房]
+  network: ws
+  password: trojan
+  port: 28080
+  server: 38.83.41.89
+  skip-cert-verify: true
+  sni: jflsjlaf.pages.dev
+  tls: true
+  type: trojan
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: jflsjlaf.pages.dev
+    max-early-data: 2560
+    path: /
+- alpn:
+  - http/1.1
+  client-fingerprint: random
+  name: SCPlus-🇺🇸US¹-SG⁰_22|0.8MB/s|GPT|TK|NF|D+|X|[原生|机房]
+  network: ws
+  port: 443
+  server: 13.57.0.54
+  servername: snippet.danfeng.casacam.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.casacam.net
+    path: /danfeng
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP²_8|4.1MB/s|0%|GPT⁺|YT|NF|X|[广播|机房]
+  network: tcp
+  password: IL37892054
+  port: 443
+  server: sharp-dogfish.rooster465.autos
+  skip-cert-verify: true
+  sni: sharp-dogfish.rooster465.autos
+  tls: true
+  type: trojan
+  udp: true
+- name: SCPlus-🇯🇵JP²_9|3.1MB/s|2%|GPT⁺|YT|NF|X|[广播|机房]
+  password: IL37892054
+  port: 443
+  server: on-airedale.rooster465.autos
+  skip-cert-verify: true
+  sni: on-airedale.rooster465.autos
+  tls: true
+  type: trojan
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP¹-SG⁰_31|3.9MB/s|7%|GPT|YT|NF|D+|X|Beacon灯塔-Clash订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: www.mfyx.cn
+  servername: wy.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+    path: /special/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- name: SCPlus-🇭🇰HK²_2|1.3MB/s|0%|GPT⁺|GM|YT-US|NF|D+|X|sinspired/subs-check|[广播|机房]
+  password: 9594f8cc-da22-4504-9bcb-b8f219fe28ec
+  port: 60006
+  server: hkaws.ccwink.photos
+  skip-cert-verify: true
+  sni: hkaws.ccwink.photos
+  type: anytls
+  udp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹⁺_22|1.1MB/s|0%|GPT|GM|D+|X|Beacon灯塔-Base64通用订阅
+  network: ws
+  port: 443
+  server: 101.32.116.73
+  servername: wy.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+      User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+    path: /mag/collect/about/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  name: SCPlus-🇸🇬SG¹⁺_23|1.6MB/s|7%|GPT⁺|GM|YT|D+|X|Beacon灯塔-Clash订阅
+  network: ws
+  port: 443
+  server: 104.18.46.126
+  servername: wy.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+    path: /jp/activity/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  name: SCPlus-🇺🇸US¹-JP⁰_8|0.5MB/s|7%|GPT|GM|D+|X|免费节点订阅中心-节点04|[原生|机房]
+  network: ws
+  port: 1443
+  server: 45.62.112.250
+  servername: 6jo3979-1m6dxw0bw0xs4287w.mikuru.ip-ddns.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00000000-0000-4000-8000-000000000000
+  ws-opts:
+    headers:
+      Host: 6jo3979-1m6dxw0bw0xs4287w.mikuru.ip-ddns.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-JP⁰_7|0.5MB/s|GPT⁺|GM|YT|TK|D+|X|X-阿牛订阅链接-日本IP解锁全部流媒体|[原生|机房]
+  network: ws
+  port: 443
+  server: 103.160.204.249
+  servername: aniu1fc40835.x-a-niu.ccwu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu1fc40835.x-a-niu.ccwu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  name: SCPlus-🇩🇪DE¹-JP⁰_2|0.5MB/s|7%|GPT|YT|TK|NF|D+|X|免费节点订阅中心-节点04|[广播|机房]
+  network: ws
+  port: 50002
+  server: 80.71.157.70
+  servername: 6jo3979-1m6dxw0bw0xs4287w.mikuru.ip-ddns.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00000000-0000-4000-8000-000000000000
+  ws-opts:
+    headers:
+      Host: 6jo3979-1m6dxw0bw0xs4287w.mikuru.ip-ddns.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP¹-SG⁰_33|1.4MB/s|7%|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-Clash订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: fn.130519.xyz
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /intro/channels/hot/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- alpn:
+  - http/1.1
+  name: SCPlus-🇩🇪DE¹-SG⁰_2|0.6MB/s|7%|GPT⁺|NF|D+|X|免费节点订阅中心-节点06
+  network: ws
+  port: 443
+  server: 46.101.236.204
+  servername: snippet.danfeng.casacam.net
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+  ws-opts:
+    headers:
+      Host: snippet.danfeng.casacam.net
+    path: /danfeng
+- name: SCPlus-🇲🇾MY²_1|1.3MB/s|GPT|X|sinspired/subs-check
+  password: ""
+  port: 4324
+  server: 206.123.156.192
+  skip-cert-verify: true
+  type: socks5
+  username: ""
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_23|1.6MB/s|GPT⁺|GM|YT|TK|X|Beacon灯塔-自适应订阅|[原生|机房]
+  network: ws
+  port: 443
+  server: 104.17.136.236
+  servername: wt.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wt.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+    path: /u/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_34|1.9MB/s|7%|GPT⁺|GM|NF|X|Beacon灯塔-Base64通用订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: fn.130519.xyz
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36
+    path: /sort/channel/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇭🇰HK¹-JP⁰_3|3.8MB/s|0%|GPT⁺|YT|D+|X|X-阿牛订阅链接-日本IP解锁全部流媒体|[广播|机房]
+  network: ws
+  port: 443
+  server: 8.218.189.27
+  servername: aniu1fc40835.x-a-niu.ccwu.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu1fc40835.x-a-niu.ccwu.cc
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- name: SCPlus-🇻🇳VN²_1|0.6MB/s|GPT⁺|X|sinspired/subs-check
+  password: ""
+  port: 5893
+  server: 206.123.156.202
+  skip-cert-verify: true
+  type: socks5
+  username: ""
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-JP⁰_9|3.7MB/s|GPT⁺|X|橘子复读机公益-订阅又死了|[广播|机房]
+  network: ws
+  port: 443
+  server: staticdelivery.nexusmods.com
+  servername: fh9bq8zuds8hha4uxrf6yuh.myto.ip-ddns.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00000000-0000-4000-8000-000000000000
+  ws-opts:
+    headers:
+      Host: fh9bq8zuds8hha4uxrf6yuh.myto.ip-ddns.com
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+    path: /@Marisa_kristi
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹⁺_25|2.3MB/s|7%|GPT|YT|NF|D+|X|Beacon灯塔-自适应订阅
+  network: ws
+  port: 443
+  server: www.adbcardpay.xyz
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+    path: /pics/clips/v/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: SCPlus-🇯🇵JP²_10|1.6MB/s|GPT|YT|NF|X|sinspired/subs-check|[广播|机房]
+  port: 20238
+  reality-opts:
+    public-key: DXQDAGxccP5NiuFoqBVTZwd-IJ1bspO---aSVBiujRo
+    short-id: 3a0d5d97
+  server: bgp.mfxy.shop
+  servername: www.yahoo.com
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e3444624-2b1e-4567-b9b0-782a1ea59e5f
+  xudp: true
+- cipher: chacha20-ietf-poly1305
+  name: SCPlus-🇸🇬SG²_6|0.5MB/s|11%|GPT⁺|YT|X|[广播|商宽]
+  password: 0a3c8ab4-d46f-4bc1-9410-8df80cfa966b
+  port: 48326
+  server: jsy-11b6-sg.juse168.com
+  type: ss
+  udp: true
+- name: SCPlus-🇰🇷KR²_2|1.7MB/s|3%|GPT|GM|D+|X|免费节点订阅中心-节点06|[广播|商宽]
+  network: ws
+  password: cfb2ef9b-ac1f-4288-965c-a892ab04241b
+  port: 443
+  server: kr1.edge.blzstatic.online
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: trojan
+  ws-opts:
+    path: ""
+- client-fingerprint: chrome
+  name: SCPlus-🇯🇵JP¹-SG⁰_36|2.2MB/s|GPT⁺|GM|YT|NF|D+|X|Beacon灯塔-Clash订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: cdn.555586.xyz
+  servername: wr.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+    path: /section/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- flow: null
+  name: SCPlus-🇯🇵JP¹-SG⁰_37|1.7MB/s|GPT⁺|YT|NF|D+|X|Beacon灯塔-SingBox订阅
+  network: ws
+  port: 443
+  server: 162.159.44.103
+  servername: wy.090881.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wy.090881.xyz
+    path: /document/special/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹-AU⁰_1|1.4MB/s|7%|GPT⁺|GM|NF|D+|X|X-阿牛订阅链接-全球反代节点
+  network: ws
+  port: 443
+  server: www.udacity.com
+  servername: aniu7f78fa02.aniua-all.us.ci
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: aniu7f78fa02.aniua-all.us.ci
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /?ed=2560
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇯🇵JP¹-SG⁰_38|0.7MB/s|GPT⁺|YT|NF|D+|X|Beacon灯塔-自适应订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: cdn.555586.xyz
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36
+    path: /wiki/register/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true
+- alpn:
+  - h3
+  client-fingerprint: random
+  name: SCPlus-🇯🇵JP¹-US⁰_2|1.7MB/s|7%|GPT|GM|YT|NF|D+|X|[广播|机房]
+  network: ws
+  port: 443
+  server: 153.121.45.101
+  servername: dd4973b2.lfree.cn.mt
+  tls: true
+  type: vless
+  udp: true
+  uuid: 69b73277-99ed-6b7f-f52b-79b98093e7ae
+  ws-opts:
+    headers:
+      Host: dd4973b2.lfree.cn.mt
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+    path: /socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433
+  xudp: true
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇸🇬SG¹-JP⁰_9|1.6MB/s|7%|GPT⁺|GM|YT|NF|D+|X|X-阿牛订阅链接-香港IP电脑V2开启ECH可用|[广播|机房]
+  network: ws
+  port: 443
+  server: www.udacity.com
+  servername: snippets-jp.aniuge.qzz.io
+  tls: true
+  type: vless
+  udp: true
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    headers:
+      Host: snippets-jp.aniuge.qzz.io
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    path: "%2F%3Fed%3D2095"
+  xudp: true
+- client-fingerprint: chrome
+  encryption: none
+  name: SCPlus-🇺🇸US¹-SG⁰_24|1.4MB/s|7%|GPT⁺|GM|YT-JP|NF|D+|X|Beacon灯塔-自适应订阅|[广播|机房]
+  network: ws
+  port: 443
+  server: www.bangbenjiaju.com
+  servername: wr.090881.xyz
+  tls: true
+  type: vless
+  udp: true
+  uuid: 29ff2954-dfea-4d20-8089-059cfa861453
+  ws-opts:
+    headers:
+      Host: wr.090881.xyz
+      User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+    path: /jump.html/posts/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=tw.william.us.ci,ProxyIP.SG.CMLiussss.net
+  xudp: true

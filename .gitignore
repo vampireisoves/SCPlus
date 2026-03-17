@@ -34,3 +34,13 @@ output/ACL4SSR_Online_Full.yaml
 output/Sinspired_Rules_CDN.yaml
 Subs Check · 管理面板.url
 subs-check-pro.exe
+AutoUpdater.NET.dll
+Microsoft.Web.WebView2.Core.dll
+Microsoft.Web.WebView2.WinForms.dll
+Newtonsoft.Json.dll
+/runtimes
+subs-check.exe
+subs-check.win.gui.exe
+subs-check_Windows_x86_64.zip
+YamlDotNet.dll
+/zh
